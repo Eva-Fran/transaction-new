@@ -1,0 +1,77 @@
+table, thead, td, tbody{
+    width:80%;
+    margin: auto;
+    font-size: 15px;
+    padding: 10px;
+    // text-align: center;
+}
+.container{
+    display: flex;
+    border: 3px solid black;
+    height: 90vh;
+}
+.bl{
+  
+
+    // border: 3px solid red;
+    width: 25%;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.wh{
+    border: 3px solid purple;
+     width: 75%;
+     align-items: center;
+     text-align: center;
+    // border-radius: 10px;
+}
+.top{
+    height: 80px;
+    display: flex;
+    padding: 10px;
+}
+ .log{
+    margin-left:30px;
+    //  border: 2px solid grey;
+     display: flex;
+     margin-top: 20px;
+     // justify-content: space-between;
+     align-items: center;
+     height: 6%;
+     // margin-top: -5px;
+     padding: 1px;
+     width: 60%;
+     border-radius: 20px;
+ }
+ #wilp{
+    //  border: 2px solid green;
+     width: 15%;
+ } 
+ #wolp{
+    //  border: 2px solid grey;
+    width: 25%;
+  }
+ #welp{
+//    border: 2px solid turquoise;
+    width: 25%;
+ }
+  #walp{
+    //  border: 2px solid orange;
+    width: 20%;
+  }
+  #wulp{
+    //  border: 2px solid red;
+     width: 15%;
+  }
+  #wvlp{
+    //    border: 2px solid turquoise;
+        width: 15%;
+     }
+.tabla{
+    // display: flex;
+    // flex-direction: column;
+    width: 80%;
+    // border: 2px solid;
+}
